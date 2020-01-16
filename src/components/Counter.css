@@ -1,0 +1,12 @@
+.Counter {
+	margin-top: 30px;
+	display: flex;
+}
+
+.Counter .decrease {
+	margin-right: 10px;
+}
+
+.Counter .increase {
+	margin-left: 10px;
+}

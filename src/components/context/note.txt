@@ -1,0 +1,6 @@
+1. Provider bao ngoài component nào thì có thể cung cấp data cho component đó và tất cả các component con của component đó
+=> có thể bao ngoài cả <App>
+
+2. Muốn dữ liệu truyền vào từ Provider hiển thị ở component nào thì chỉ cần đặt Consumer ở Component đó
+
+3. Có thể truyền value là number, object, function vào Provider => khi gọi hàm truyền vào ở Consumer có thể thay đổi state ở Provider

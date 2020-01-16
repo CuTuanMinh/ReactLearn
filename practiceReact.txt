@@ -1,0 +1,5 @@
+chú ý về bài 27 + 28: Thực hành React
+
+- Server được build trong thư mục JSONserver, để chạy server => node index.js, truy cập localhost:8080/products 
+- Cần chạy song song cả client(npm start) và server(node index.js) để project active
+- JSONserver sau khoảng thời gian nhất định(10-15p) sẽ tự tắt
